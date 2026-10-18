@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Public\\Shared-BN\\Apps\\InstantCollectionApp\\Work Debt ARM\\Work Debt ARM\\MainDebtApp\\MaindebtPack\\MaindebtPack.wapproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Public\\Shared-BN\\Apps\\InstantCollectionApp\\Work Debt ARM\\Work Debt ARM\\MainDebtApp\\MainDebtApp\\MainDebtApp.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Public\\Shared-BN\\Apps\\InstantCollectionApp\\Work Debt ARM\\Work Debt ARM\\MainDebtApp\\MainDebtApp\\MainDebtApp.csproj",
+        "projectName": "MainDebtApp",
+        "projectPath": "C:\\Users\\Public\\Shared-BN\\Apps\\InstantCollectionApp\\Work Debt ARM\\Work Debt ARM\\MainDebtApp\\MainDebtApp\\MainDebtApp.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "C:\\Users\\Public\\Shared-BN\\Apps\\InstantCollectionApp\\Work Debt ARM\\Work Debt ARM\\MainDebtApp\\MaindebtPack\\MaindebtPack.wapproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Public\\Shared-BN\\Apps\\InstantCollectionApp\\Work Debt ARM\\Work Debt ARM\\MainDebtApp\\MaindebtPack\\MaindebtPack.wapproj",
+        "projectName": "MaindebtPack",
+        "projectPath": "C:\\Users\\Public\\Shared-BN\\Apps\\InstantCollectionApp\\Work Debt ARM\\Work Debt ARM\\MainDebtApp\\MaindebtPack\\MaindebtPack.wapproj",
+        "packagesPath": "C:\\Users\\AdminBN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Public\\Shared-BN\\Apps\\InstantCollectionApp\\Work Debt ARM\\Work Debt ARM\\MainDebtApp\\MaindebtPack\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AdminBN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.14393"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.14393": {
+            "targetAlias": "net451",
+            "projectReferences": {
+              "C:\\Users\\Public\\Shared-BN\\Apps\\InstantCollectionApp\\Work Debt ARM\\Work Debt ARM\\MainDebtApp\\MainDebtApp\\MainDebtApp.csproj": {
+                "projectPath": "C:\\Users\\Public\\Shared-BN\\Apps\\InstantCollectionApp\\Work Debt ARM\\Work Debt ARM\\MainDebtApp\\MainDebtApp\\MainDebtApp.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.14393": {
+          "targetAlias": "net451",
+          "imports": [
+            "netcoreapp3.1",
+            "netcoreapp3.0",
+            "netcoreapp2.0",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net6.0-windows10.0.15063"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
